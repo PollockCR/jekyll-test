@@ -1,4 +1,11 @@
+# This file specifies what files to exclude from your git repository
+
+# Temporary Jekyll files
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+vendor
+
+# Temporary local files
+.DS_Store
